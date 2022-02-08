@@ -1,6 +1,7 @@
 #include <iostream>
+#include <print.cpp>
 
 int main(){
-	std::cout<< "this is a text for git!";
+	print("this is a text for git!");
 	return 0; 
 } 
