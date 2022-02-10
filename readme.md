@@ -1,4 +1,6 @@
 # this is a readme file
 
-这是远程原仓库（upstream）和本地仓库合并的结果
+
+
+一个本地仓库，推送两个远程仓库
 
